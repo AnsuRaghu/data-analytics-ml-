@@ -1,0 +1,13 @@
+Facebook (Meta):
+Facebook operates as a "Social Graph." Its news feed is optimized for engagement with known contacts, such as friends, family, and community groups. News consumption here is secondary to social connection and is heavily filtered by a "Discovery" algorithm that prioritizes content based on past interactions. Because it is a "walled garden," misinformation often circulates within private groups where it is shielded from public fact-checking. It acts as a community-oriented bulletin board where information travels slowly and is highly curated.
+
+X.com (formerly Twitter):
+X operates as an "Interest Graph." Its news feed is designed for real-time, global discourse. Information flows in a public square format, making it the primary source for breaking news and raw, unverified data. Unlike Facebook, X encourages high-velocity sharing through retweets and public threads. While this makes it the fastest source for global events, the lack of community-level filtering leads to higher levels of polarization and a faster spread of unverified information.
+
+Key Differences in Data Flow:
+
+Facebook: High signal-to-noise ratio for personal updates, but low signal for breaking global news.
+
+X.com: Low signal-to-noise ratio for personal updates, but high signal for real-time global events.
+
+Algorithmic Bias: Facebook algorithms prioritize "dwell time" (time spent on content), whereas X algorithms prioritize "velocity" (how fast content is being interacted with).
