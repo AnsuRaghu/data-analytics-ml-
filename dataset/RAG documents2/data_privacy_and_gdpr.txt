@@ -1,0 +1,13 @@
+
+Topic: Data Governance and Legal Compliance
+In the European Union, the General Data Protection Regulation (GDPR) mandates strict adherence to how personal data is processed within analytical pipelines. For data scientists, this requires a fundamental shift from "collecting everything" to "data minimization."
+
+Key Principles for ML Pipelines:
+
+Data Minimization: Only processing the minimum amount of personal data required to achieve the specific analytical objective.
+
+Purpose Limitation: Ensuring data collected for one specific purpose (e.g., billing) is not repurposed for another (e.g., personalized marketing) without explicit consent.
+
+The Right to be Forgotten: Building technical processes that allow for the complete removal of an individual’s data from both training datasets and deployed model memory/influence.
+
+Anonymization and Pseudonymization: To comply, ML systems should prioritize anonymizing data at the source. If personal identifiers cannot be fully removed, pseudonymization techniques (like hashing or tokenization) must be used to decouple the identity from the data point. Compliance is not just a legal box-ticking exercise; it is a core professional requirement that prevents costly regulatory fines and builds trust between the data producer and the user.

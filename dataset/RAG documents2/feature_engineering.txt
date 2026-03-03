@@ -1,0 +1,13 @@
+
+Topic: Data Preprocessing for ML
+Feature engineering is the practice of using domain knowledge to select and transform raw data into informative features for machine learning models. It is widely considered the most important step in the data science pipeline.
+
+Key techniques include:
+
+Normalization/Scaling: Adjusting features to a common range (e.g., 0 to 1) so models are not biased by large numerical inputs.
+
+Imputation: Filling in missing values based on statistics like mean, median, or predictive modeling.
+
+Dimensionality Reduction: Techniques like PCA to simplify complex datasets while retaining essential information.
+
+High-quality features improve model performance more than choosing a sophisticated model architecture. Effective feature engineering transforms raw, messy data into a clean structure that models can easily interpret, ultimately increasing predictive accuracy.

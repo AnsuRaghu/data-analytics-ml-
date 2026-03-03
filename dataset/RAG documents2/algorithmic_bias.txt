@@ -1,0 +1,13 @@
+
+Topic: Ethical Analytics and Fairness
+Algorithmic bias occurs when a model produces systemically prejudiced results due to biased training data. If an ML model is trained on historical data containing human or societal prejudices (e.g., in hiring, lending, or law enforcement), it will likely codify and amplify those biases.
+
+Addressing bias requires:
+
+Data Representation: Ensuring training datasets are balanced across demographic groups.
+
+Fairness Audits: Manually testing the model for disparate impact on marginalized groups.
+
+Transparency: Implementing "Explainable AI" (XAI) to understand why a model made a specific prediction.
+
+Data scientists have an ethical responsibility to treat fairness not as an afterthought but as a core metric for model success. Continuous monitoring is required to ensure that production models do not drift into discriminatory patterns over time.

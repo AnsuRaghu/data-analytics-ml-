@@ -1,0 +1,19 @@
+
+Topic: Time-Series Analysis in Data Analytics
+Time-series analysis is the quantitative study of data points collected or recorded at specific time intervals. In fields like energy management, retail, or industrial monitoring, this data is unique because it is ordered sequentially, making it highly sensitive to temporal dependencies.
+
+Core Concepts:
+
+Seasonality: Periodic fluctuations that repeat over known time frames (e.g., higher electricity demand during Finnish winter months).
+
+Trends: The long-term direction of the data, which may be upward (growth) or downward (decline) over several years.
+
+Stationarity: A critical property where the statistical properties of the series (mean, variance) do not change over time. Many models require data to be "stationary" to make reliable predictions.
+
+Modeling Techniques:
+
+Moving Averages & Exponential Smoothing: Baseline statistical methods used to filter out noise and highlight underlying trends.
+
+Deep Learning (LSTM): Long Short-Term Memory (LSTM) networks are a specialized type of Recurrent Neural Network (RNN) capable of learning long-term temporal correlations. These are currently the state-of-the-art for complex, non-linear forecasting tasks where simple regression models fail to capture the nuances of the data.
+
+Mastery of these models allows data analysts to shift from descriptive analytics (what happened?) to predictive analytics (what will happen next?), providing immense value in industrial and residential resource planning.

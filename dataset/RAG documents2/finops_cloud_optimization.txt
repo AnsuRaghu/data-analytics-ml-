@@ -1,0 +1,11 @@
+FinOps is the collaborative practice of managing cloud costs to maximize business value. As cloud usage scales, organizations often face "cost spirals" due to over-provisioning.
+
+Key FinOps strategies include:
+
+Rightsizing: Analyzing actual usage metrics to scale compute instances down to the appropriate size.
+
+Spot Instances: Utilizing spare cloud capacity for non-critical batch analytics at a fraction of the cost.
+
+Budget Alerting: Setting automated thresholds to receive notifications when spend approaches a limit.
+
+Effective FinOps changes the culture of an engineering team from "always-on" to "cost-aware," ensuring that data analytics pipelines remain financially sustainable as they grow from a proof-of-concept to a large-scale production system
